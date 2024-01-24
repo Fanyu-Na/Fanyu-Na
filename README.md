@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-Named Diving-Fish, a game programmer holding on to seeking fantasy.
+Named FanYu, a game programmer holding on to seeking fantasy.
 
 - 🔭 Major in computer graphics and game programming.
-- 🌱 Amateur for front-end / back-end, and writing (articles, not code)!
 - 💬 Personal Site: https://www.ekzykes.cn
 
 <p align="left">
